@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Plavi dim - Nora Roberts",
+      "picture": "knjiga2.jpg",
+      "description": "Plavi dim priča je o iskonskom strahu, trijumfu ljudskog duha i sponama koje nas vezuju u teškim vremenima. Požar u porodičnoj piceriji zauvek je promenio život mlade Rine Hejl. Prijatelji i komšije pomoći će Hejlovima da ponovo započnu posao, vlasti će uhapsiti zločinca, ali Rina nikada neće moći da se otrgne lepoti i razornoj moći vatre, a ovo iskustvo nepovratno će oblikovati njenu sudbinu i ona će postati istražitelj požara.Međutim, nije samo Rina fascinirana plamenom. Još neko je opsednut njegovom moći i želi da ga upotrebi za proračunatu, paklenu osvetu",
+      "flag": false,
+      "price": 1000,
+      "reviews": [
+        {
+          "review_id": 1,
+          "username": "Sara",
+          "comment": "Odlicna knjiga",
+          "rate": 5
+        },
+        {
+          "review_id": 2,
+          "username": "Ana",
+          "comment": "Svidja mi se",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nocna smena - Stiven King",
+      "picture": "knjiga1.jpg",
+      "description": "Iz najvećih dubina tame, u kojoj mutirani pacovi brane svoje carstvo, a kataklizmički virusi prete da unište čovečanstvo, pa sve do vrtoglavih visina sa kojih se prelepa devojka baca u susret mraènoj sudbini, ova jedinstvena zbirka dvadeset kratkih priča odvešće vas u podzemne lavirinte najjezivije, najstrašnije mašte našeg vremena. Kingova namera ovde je jasna: uplašiće vas toliko da ćete doći na korak do ludila...a možda i preðete tu tanku liniju, ko zna?",
+      "flag": false,
+      "price": 1450,
+      "reviews": [
+        {
+          "review_id": 1,
+          "username": "Marko",
+          "comment": "Preporucujem!",
+          "rate": 5
+        }
+        
+      ]
+    },
+    {
+      "id": 3,
+      "name": "U jednom trenu - Gijom Muso",
+      "picture": "knjiga3.jpg",
+      "description": "Liza i Artur mogu da se vide samo jednom godišnje.On čitav život provodi tražeći je...... a ona svoj čekajući ga.Liza sanja o tome da postane glumica. Kako bi platila studije glume, radi kao konobarica u jednom baru na Menhetnu. Jedne večeri tu upoznaje Artura Kostela, mladog lekara, i njen život menja se iz korena.Artur će učiniti sve da osvoji Lizu. U gradu punom neočekivanih prepreka, na sve načine pokušaće da dođe do nje. Ali Artur nije običan muškarac – on Lizi otkriva istinu koja ga sprečava da gradi budućnost sa njom: neverovatnu a stvarniju od života.",
+      "flag": false,
+      "price": 850,
+      "reviews": [
+        {
+          "review_id": 1,
+          "username": "Nina",
+          "comment": "Nije po mom ukusu",
+          "rate": 2
+        },
+        {
+          "review_id": 2,
+          "username": "Sofija",
+          "comment": "Ja sam uzivala :)",
+          "rate": 5
+        }
+        
+      ]
+    }
+  ]
+  
